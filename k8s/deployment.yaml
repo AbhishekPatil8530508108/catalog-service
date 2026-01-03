@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: container1
-          image:  abhishekpatil1008/catalog-service:v17
+          image:  abhishekpatil1008/catalog-service:v18
           ports:
             - containerPort: 4000
